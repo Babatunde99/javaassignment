@@ -1,3 +1,5 @@
+
+
 let book = prompt ("Enter Name of book:");
 let author = prompt ("Enter Authors' Name:");
 let qty = prompt ("Enter quantity needed:");
@@ -41,4 +43,20 @@ NM2.innerHTML = authoR;
 QT2.innerHTML = qtY;
 
 
+
+//creating an Array
+
+const car = ["Porche", "Ferrari", "Lamboghini", "Lexus", "Mercedes", "Audi", "VolksWagen", "Ford", "Toyota", "Apple" ]
+console.log (car)
+demo.innerHTML= car;
+
+const Vehicle = ["Porche", "Ferrari", "Lamboghini", "Lexus", "Mercedes", "Audi", "VolksWagen", "Ford", "Toyota", "Apple" ]
+Vehicle.push("Omolanke")
+console.log (Vehicle)
+onto.innerHTML = Vehicle;
+
+const autom = ["Porche", "Ferrari", "Audi", "VolksWagen", "Ford", "Toyota", "Apple" ]
+autom.pop()
+console.log (autom)
+automo.innerHTML = autom;
 
