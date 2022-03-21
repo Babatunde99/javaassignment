@@ -1,5 +1,5 @@
 
-
+/*
 let book = prompt ("Enter Name of book:");
 let author = prompt ("Enter Authors' Name:");
 let qty = prompt ("Enter quantity needed:");
@@ -41,7 +41,7 @@ data[booK] = authoR;
 NB2.innerHTML = booK;
 NM2.innerHTML = authoR;
 QT2.innerHTML = qtY;
-*/
+
 
 
 //creating an Array
@@ -63,17 +63,18 @@ console.log (autom)
 automo.innerHTML = autom;
 
 
-// let t = 10000
-// let x = 3
-// let p = 30/100
-// let w = t * p
-// let z = t + w
-// let total = z / x
-// console.log (total)
+let t = 10000
+let x = 3
+let p = 30/100
+let w = t * p
+let z = t + w
+let total = z / x
+console.log (total)
 
-// function equalto() {
-//  document.getElementsByTagName("span")[1].innerHTML = total;   
-// }
+function equalto() {
+ document.getElementsByTagName("span")[1].innerHTML = total;   
+}
+*/
 
 
 alert("Welcome to the Discount Sales Dashboard. The higher your purchase, the higher your discount.")
