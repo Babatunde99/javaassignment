@@ -1,5 +1,5 @@
 
-/*
+
 let book = prompt ("Enter Name of book:");
 let author = prompt ("Enter Authors' Name:");
 let qty = prompt ("Enter quantity needed:");
@@ -47,7 +47,7 @@ QT2.innerHTML = qtY;
 //creating an Array
 
 
-/*
+
 const car = ["Porche", "Ferrari", "Lamboghini", "Lexus", "Mercedes", "Audi", "VolksWagen", "Ford", "Toyota", "Apple" ]
 console.log (car)
 demo.innerHTML= car;
@@ -61,7 +61,7 @@ const autom = ["Porche", "Ferrari", "Audi", "VolksWagen", "Ford", "Toyota", "App
 autom.pop()
 console.log (autom)
 automo.innerHTML = autom;
-*/
+
 
 // let t = 10000
 // let x = 3
@@ -75,7 +75,7 @@ automo.innerHTML = autom;
 //  document.getElementsByTagName("span")[1].innerHTML = total;   
 // }
 
-/*
+
 alert("Welcome to the Discount Sales Dashboard. The higher your purchase, the higher your discount.")
 let amount = prompt("How much is your total purchase")
 
@@ -93,7 +93,7 @@ else if ((data["amount"] >= 2000) && (data["amount"] <= 5000 )){
 else if (data ["amount"] > 5000){
     alert("You've qualified for 30% discount")
 }
-*/
+
 
 
 const frd = prompt("Enter payment amount: ");
