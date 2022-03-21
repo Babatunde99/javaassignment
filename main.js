@@ -76,7 +76,7 @@ function equalto() {
 }
 */
 
-
+/*
 alert("Welcome to the Discount Sales Dashboard. The higher your purchase, the higher your discount.")
 let amount = prompt("How much is your total purchase")
 
@@ -120,3 +120,23 @@ console.log(hood);
 console.log(look);
 console.log(good);
 console.log(total);
+*/
+
+
+alert ("testing code")
+let Number = prompt ("Enter your desired number")
+ let num = parseInt(Number);
+
+
+
+if (num % 2 ==0) {
+    alert ("You have entered an even number")
+}
+else if (num % 2 ==1){
+    alert("You've entered an odd number")
+}
+else{
+    alert("You've entered an invalid input")
+}
+
+
